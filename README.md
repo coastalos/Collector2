@@ -1,0 +1,2 @@
+# Collector2
+DemoCollector
